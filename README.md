@@ -1,4 +1,4 @@
-# specKable2
+# Spec Kable
 
 Visit site: https://siwy55p.github.io/specKable2/
 
